@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @egifauzi
 - 👀 I’m interested in Flutter and Laravel
-- 💞️ I’m looking to collaborate
+<!----- 💞️ I’m looking to collaborate---->
 - 📫 Reach me at Egi.fauziii@gmail.com
 
 <!---
